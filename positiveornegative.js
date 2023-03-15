@@ -1,9 +1,5 @@
 const positiveornegative=(number)=>{
-    if(number<0){
-        console.log("negative");
-    }else{
-        console.log("positive")
-    }
+    (number<0)?console.log("negative"):"positive";
 }
 
 positiveornegative(-5);
