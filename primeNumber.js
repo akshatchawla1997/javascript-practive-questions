@@ -1,3 +1,4 @@
+// Prime number
 const primeNumber = (number)=>{
     let count = 0;
     for (let i=4;i<number/2;i++){

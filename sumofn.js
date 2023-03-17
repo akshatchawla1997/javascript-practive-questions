@@ -1,3 +1,4 @@
+// Sum of First N Natural numbers:
 const sumOfN=(number)=>{
     let sum = 0;
     for (let i=0;i<=number;i++){

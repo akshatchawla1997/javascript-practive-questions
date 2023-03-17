@@ -1,3 +1,4 @@
+// Positive or Negative number
 const positiveornegative=(number)=>{
     (number<0)?console.log("negative"):"positive";
 }
