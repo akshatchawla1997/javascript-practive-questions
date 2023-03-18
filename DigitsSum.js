@@ -10,4 +10,4 @@ const digitsSum = (number)=>{
     console.log(sum)
 }
 
-digitsSum(151);
+digitsSum(3451);
