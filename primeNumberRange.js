@@ -1,3 +1,4 @@
+// Prime number within a given range
 const primeNumberRange =(to, from)=>{
     for (let i = to; i<=from;i++){
         let count = 0;
