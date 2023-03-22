@@ -6,7 +6,6 @@ const strongNumber =(number)=>{
         for (i=1;i<=x;i++){
             fact *= i
     }
-    console.log(fact)
     sum+=fact
     n=~~n/10
     }
