@@ -1,7 +1,7 @@
 const automorphic = (number)=>{
     let n=number;
     let square = n*n;
-    (checknum(n,square))?console.log(number,"is automorphic number"):console.log(number,"is not automorphic number")
+    (checknum(n,square))?console.log(`${number} is automorphic number`):console.log(`${number} is not a automorphic number`)
 }
 
 const checknum =(n,sq)=>{
