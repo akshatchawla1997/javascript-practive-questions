@@ -1,3 +1,5 @@
+// find a strong number
+
 const strongNumber =(number)=>{
     let sum=0, n=number
     while(n>1){

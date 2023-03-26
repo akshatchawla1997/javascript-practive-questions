@@ -1,3 +1,5 @@
+// Find the armstrong number in a range
+
 const rangeArmstrong = (from, to)=>{
     for(let i = from; i<=to; i++){
         let multiple = 1,digit=sum=0

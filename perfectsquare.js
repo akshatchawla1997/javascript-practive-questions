@@ -1,3 +1,4 @@
+// Find the perfect Square of a number
 const perfectsquare = (number)=>{
     let x = Math.sqrt(number);
     (Number.isInteger(x))?console.log(`${number} is a perfect square`):console.log(`${number} is not a perfect square`)
