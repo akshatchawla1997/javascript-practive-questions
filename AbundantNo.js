@@ -1,3 +1,4 @@
+// Abundant Number
 const abundantNo = (number)=>{
     let sum = 0,n=number;
     for (i=1;i<=number/2;i++){
