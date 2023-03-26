@@ -1,3 +1,4 @@
+// Find the Harshad Number
 const HarshadNo =(num)=>{
     let sum = 0,number=num;
     while(num>0){
