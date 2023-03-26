@@ -1,3 +1,5 @@
+// Find the perfect number
+
 const perfectNo = (number)=>{
     let n=number,sum=0;
     for (i=1;i<=n/2;i++){

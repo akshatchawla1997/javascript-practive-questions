@@ -1,3 +1,4 @@
+// Find the armstrong number
 const armstrong = (Number)=>{
     let multiple = 1,digit=sum=0
 

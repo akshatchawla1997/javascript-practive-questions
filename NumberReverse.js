@@ -1,4 +1,5 @@
 // Reverse of a number
+
 const numberReverse = (number)=>{
     let digit=reverse=0
     while(number>0){

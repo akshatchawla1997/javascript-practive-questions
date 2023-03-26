@@ -1,3 +1,4 @@
+// Find the palindrome number
 const palindrome = (Number)=>{
     let digit=reverse=0
     number = Number
