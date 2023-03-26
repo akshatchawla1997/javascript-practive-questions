@@ -1,3 +1,5 @@
+// Find the fibonacci number 
+
 const fibonacci = (number)=>{
     let nextTerm=a = 0,b=1;
 
