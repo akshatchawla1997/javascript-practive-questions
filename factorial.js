@@ -1,3 +1,5 @@
+// Find the factorial of a number
+
 const factorial = (number)=>{
 fact =1;
 {

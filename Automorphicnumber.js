@@ -1,3 +1,4 @@
+// Find the automorphic Number
 const automorphic = (number)=>{
     let n=number;
     let square = n*n;
