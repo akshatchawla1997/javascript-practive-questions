@@ -3,3 +3,4 @@ const lcmofN= (num1,num2)=>{
 
 }
 lcmofN(12,24)
+lcmofN(4,60)
