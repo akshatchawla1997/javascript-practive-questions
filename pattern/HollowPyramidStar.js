@@ -1,0 +1,1 @@
+// Pattern for Hollow pyramid star 
