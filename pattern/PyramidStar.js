@@ -7,8 +7,8 @@
 
 function pyramidStar(n){
     for(let i=1;i<=n;i++){
-        var spaces = ' '.repeat(n-i)
-        var stars = '*'.repeat(i)
+        const spaces = ' '.repeat(n-i)
+        const stars = '* '.repeat(i)
         console.log(spaces,stars)
     }
 }
