@@ -1,6 +1,6 @@
 // Find non-repeating characters in a string
 
-function charfrequency(string){
+function nonRepeatingCharacter(string){
     let frequency = {}
     for (let char of string){
         if(frequency[char]){
@@ -18,4 +18,4 @@ function charfrequency(string){
     return nonRepeatingChar;
 }
 const str = "akshat chawla"
-console.log(charfrequency(str))
+console.log(nonRepeatingCharacter(str))
